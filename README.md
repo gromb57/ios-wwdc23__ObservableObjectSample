@@ -1,5 +1,7 @@
 # Observable Object Sample
 
+[Source](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
+
 ## Configure the sample code project
 
 To run the sample app:
